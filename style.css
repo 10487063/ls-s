@@ -1,0 +1,34 @@
+span.aprovats {
+    font-style: oblique;
+}
+
+span.tots {
+    font-weight: bold;
+    color: red;
+}
+
+span.iva {
+
+    font-size: small;
+}
+
+span.no {
+
+    text-decoration: line-through;
+    color: blue
+    
+}
+
+span.canis {
+
+    font-style: italic;
+}
+
+span.ng {
+    font-weight: bold;
+}
+
+span.studiar {
+    background-color: green;
+}
+
